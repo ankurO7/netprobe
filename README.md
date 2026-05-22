@@ -1,4 +1,4 @@
-# NetProbe — CLI Network Diagnostic Tool
+# NetProbe - CLI Network Diagnostic Tool
 
 Ever wondered how `ping` and `traceroute` actually work under the hood? how they're built?
 
