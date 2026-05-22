@@ -26,6 +26,14 @@ That's inherently a systems-level task. C++ is the natural fit for it.
 - **Build system:** CMake
 - **Platform:** Linux (raw sockets require root privileges)
 
+## Installation
+
+```bash
+# Clone the repo or Fork it first.
+git clone https://github.com/ankurO7/netprobe.git
+cd netprobe
+```
+
 ## Build
 
 ```bash
