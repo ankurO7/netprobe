@@ -54,6 +54,7 @@ sudo ./netprobe trace google.com
 ### Ping
 
 ![alt text](image-1.png)
+/------------------------/
 ![alt text](image.png)
 
 ### Traceroute
